@@ -1,5 +1,6 @@
 
 # AggroGator
+![image](https://github.com/user-attachments/assets/307ee1c9-72ea-45c9-a2be-4470e960307c)
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
