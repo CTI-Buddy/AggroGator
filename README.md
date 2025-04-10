@@ -42,7 +42,7 @@ Add these to the configuration section at the top of the script.
 ## Usage
 
 ```bash
-python threat_intel_aggregator.py
+python aggrogator.py
 ```
 
 The script will:
