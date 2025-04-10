@@ -1,5 +1,5 @@
-```markdown
-# Threat Intelligence Aggregator
+
+# AggroGator
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -87,4 +87,4 @@ MIT License - see [LICENSE](LICENSE) for details.
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-```
+
